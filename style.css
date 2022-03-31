@@ -1,0 +1,181 @@
+.navbar {
+  background-color: #fe7e6d;
+}
+
+.HEADER {
+  background-color: #fe7e6d;
+  height: 50rem;
+}
+
+.body-1 {
+  margin-top: 0rem;
+  height: 25rem;
+  background-color: #feece9;
+}
+
+.text-end {
+  margin-left: -8rem;
+}
+
+.card-group {
+  margin: 6rem;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 6rem;
+}
+
+.card-group .card {
+  width: 50px;
+  background-color: #feece9;
+  margin-top: 3rem;
+}
+
+.card-group img {
+  margin-left: 2rem;
+  margin-top: 0.5rem;
+  width: 250px;
+} 
+.CARDS {
+justify-content:space-evenly;
+  height: 37rem;
+  background-color: #fe7e6d;
+}
+
+.apps {
+  background-color: #fe7e6d;
+  margin: 3rem;
+  border-radius: 2%;
+  height: 30rem;
+  padding: 2rem;
+  width: 60rem;
+  margin-left: 15%;
+  margin-top: 8rem;
+}
+
+.faded {
+  background-color: #feece9;
+}
+
+.containerr {
+  margin-top: -10rem;
+  /* Background color */
+  background-color: rgba(0, 0, 0, 0.76);
+
+  /* You can use gradient background color such as
+background: linear-gradient(rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.1) 100%); */
+
+  /* Curved corners */
+  border-top-left-radius: 60% 20%;
+  border-top-right-radius: 60% 20%;
+  height: 35rem;
+}
+
+.textwidget ul li {
+  float: left;
+  padding: 1rem;
+  list-style: none;
+}
+
+.widget ul li {
+  list-style: none;
+}
+
+.widget ul li img {
+  justify-content: center;
+  display: flex;
+  margin: 9.5px;
+  float: left;
+  width: 50px;
+  flex-wrap: wrap;
+}
+.btn1 {
+  border-radius: 5px;
+  color: aliceblue;
+  background-color: black;
+}
+
+.btn1:hover {
+  color: aliceblue;
+  background: #fe7e6d;
+}
+
+.btn2 {
+  border-radius: 5px;
+  color: aliceblue;
+  background-color: black;
+}
+
+.btn2:hover {
+  color: aliceblue;
+  background: #fe7e6d;
+}
+
+.btn3 {
+  border-radius: 5px;
+  color: aliceblue;
+  background-color: black;
+}
+
+.btn3:hover {
+  color: aliceblue;
+  background: #fe7e6d;
+}
+
+.btn4 {
+  border-radius: 5px;
+  color: aliceblue;
+  background-color: black;
+}
+
+.btn4:hover {
+  color: aliceblue;
+  background: #fe7e6d;
+}
+
+.card1 {
+  margin-left: 5rem;
+  width: 180px;
+  border-radius: 5px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+
+.card1:hover {
+  color: aliceblue;
+  background: #fe7e6d;
+}
+
+.card2 {
+  width: 180px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+
+.card2:hover {
+  color: aliceblue;
+  background: #fe7e6d;
+}
+
+.card3 {
+  margin-left: 5rem;
+  width: 180px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+
+.card3:hover {
+  color: aliceblue;
+  background: #fe7e6d;
+}
+
+.card4 {
+  width: 180px;
+
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+
+.card4:hover {
+  color: aliceblue;
+  background: #fe7e6d;
+}
