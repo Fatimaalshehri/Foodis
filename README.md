@@ -15,4 +15,4 @@
 
 
 ## Live preview:
-* Check out the demo page [Live preview]([http://127.0.0.1:5501/index.html](http://127.0.0.1:5501/index.html)).
+* Check out the demo page [Live preview]([http://127.0.0.1:5501/index.html](http://127.0.0.1:5501/index.html).
