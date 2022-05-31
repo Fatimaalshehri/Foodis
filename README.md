@@ -1,4 +1,4 @@
-# <img src="img/icon.png" width="50px"> Foodis Project
+# Foodis Project
 
 
 ### Technologies Used:
